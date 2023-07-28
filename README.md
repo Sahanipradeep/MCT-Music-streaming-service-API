@@ -40,8 +40,6 @@ The following dependencies are required to run the project:
 
 ---
 <br>
-
-## Data Model
 ## DataBase Used
 * SQL database
 ```
